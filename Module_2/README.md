@@ -1,4 +1,4 @@
-# Module 2 description
+# Module 2: Functions and conditional statements
 
 Next, you’ll discover how to call functions to perform useful actions on your data. You’ll also learn how to write conditional statements to tell the computer how to make decisions based on your instructions. And you’ll practice writing clean code that can be easily understood and reused by other data professionals.
 
