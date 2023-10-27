@@ -1,4 +1,4 @@
-# Module 1 description
+# Module 1: Hello, Python!
 
 You’ll begin by exploring the basics of Python programming and why Python is such a powerful tool for data analysis. You’ll learn about Jupyter Notebooks, an interactive environment for coding and data work. You’ll investigate how to use variables and data types to store and organize your data; and, you'll begin practicing important coding skills.
 
@@ -22,6 +22,6 @@ You’ll begin by exploring the basics of Python programming and why Python is s
 
 # About the files
 
-* This part of the repository contains an annotated guide (as a Jupyter Notebook) for the module about Python syntax, as well as a short activity (and an exemplar for that activity) about Python syntax familiarization.
+* This part of the repository contains an annotated guide (as a Jupyter Notebook) for the module about Python syntax, as well as a short hands-on activity (and an exemplar for that activity) about Python syntax familiarization.
 * No additional files (datasets) are needed to for the notebooks to work.
 * Should the notebooks are intended to be used, just download the notebook and run the cells.
