@@ -1,4 +1,4 @@
-# Module 4 description
+# Module 4: Data structures in Python
 
 Now, you’ll explore fundamental data structures such as lists, tuples, dictionaries, sets, and arrays. Lastly, you’ll learn about two of the most widely used and important Python tools for advanced data analysis: NumPy and pandas. 
 
