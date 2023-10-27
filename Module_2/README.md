@@ -19,6 +19,6 @@ Next, you’ll discover how to call functions to perform useful actions on your 
 
 # About the files
 
-* This part of the repository contains an annotated guide (as a Jupyter Notebook) for the module about functions and conditional constructs, as well as hands-on activities (and an exemplar for those activities) about the use of functions and conditional constructs.
+* This part of the repository contains an annotated guide (as a Jupyter Notebook) for the module about functions and conditional constructs, as well as hands-on activities (and exemplars for those activities) about the use of functions and conditional constructs.
 * No additional files (datasets) are needed to for the notebooks to work.
 * Should the notebooks are intended to be used, just download the notebook and run the cells.
