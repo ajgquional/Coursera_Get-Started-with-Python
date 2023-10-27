@@ -1,4 +1,4 @@
-# Module 3 description
+# Module 3: Loops and strings
 
 Here, you’ll learn how to use iterative statements, or loops, to automate repetitive tasks. You’ll also learn how to manipulate strings using slicing, indexing, and formatting. 
 
