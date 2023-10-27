@@ -1,4 +1,4 @@
-# Module 5 description
+# Module 5: Course 2 end-of-course project
 
 You will put everything you have learned about Python so far into practice with an end-of-course project. You will select a business problem from a list of options and use the given data to solve the problem. This project is an opportunity to demonstrate your skills and build a professional portfolio you can use to showcase your work to potential employers. 
 
