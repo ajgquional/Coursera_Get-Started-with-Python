@@ -23,5 +23,5 @@ You’ll begin by exploring the basics of Python programming and why Python is s
 # About the files
 
 * This part of the repository contains an annotated guide (as a Jupyter Notebook) for the module about Python syntax, as well as a short activity (and an exemplar for that activity) about Python syntax familiarization.
-* No additional files (dataset) are needed to for the notebooks to work.
+* No additional files (datasets) are needed to for the notebooks to work.
 * Should the notebooks are intended to be used, just download the notebook and run the cells.
